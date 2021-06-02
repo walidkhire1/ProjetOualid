@@ -17,7 +17,8 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
           var x= "OKJKLOJKKLJPKJKJLKJ";
-            x = '';
+            var y = x;
+            Console.Error.Write(x);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
