@@ -17,7 +17,7 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
             var x = "OKJKLOJKKLJPKJKJLKJ";
-            var y = x;
+            var y = x;2132
             Console.Error.Write(x);
         }
 
