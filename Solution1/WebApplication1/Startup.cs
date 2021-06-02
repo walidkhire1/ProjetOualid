@@ -18,7 +18,7 @@ namespace WebApplication1
         {
             var x = "OKJKLOJKKLJPKJKJLKJ";
             var y = x;
-            Console.Error.Write(x);.
+            Console.Error.Write(x);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
